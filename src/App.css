@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.logo-1{
+  width: 150px;
+
+}
+.profile-container{
+  background-color: rgb(232, 180, 180);
+  margin-top: 20px;
+  border-radius: 20px;
+  width: 35%;
+   
+  
+}
+.skills21{
+  font-size: 23px;
+  margin-right: 10%;
+  /* margin-left: 20%; */
+  list-style: none;
+}
